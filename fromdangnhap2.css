@@ -1,0 +1,119 @@
+.body{
+    background: #FFFFFF;
+    width: 1079px;
+    height: 650px;
+    
+}
+
+h1{
+    padding-top: 80px;
+    padding-left: 106px;
+    color: #EC8206;
+    text-align: left;
+    margin-bottom: -3px;
+}
+
+p{
+    color:#636364;
+    text-align: left;
+    margin-bottom: -10px;
+    padding-left: 106px;
+}
+
+.email h4{
+    padding-left: 106px;
+    padding-top: 20px;
+    text-align: left;
+    margin-bottom: -15px;
+}
+
+.pass h4{
+    padding-left: 106px;
+    padding-top: 30px;
+    text-align: left;
+    margin-top: -50px;
+    margin-bottom: -15px;
+}
+
+
+.login{
+    width: 540px;
+    height: 650px;
+    text-align: center;
+    font-family: Arial;
+}
+
+.login input{
+    width:313.97px;
+    height: 41.31px;
+    border-radius: 12px;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    color: #636364;
+    padding-left: 15px;
+    margin-bottom: 10px;
+    
+}
+
+.checkbox input{
+    width: 14.46px;
+    height: 13.43px;
+    border: 1px solid #C4C4C400;
+    border-radius: 4px;
+    font-size: 12px;
+    margin-top: 15px;
+}
+
+.checkbox a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+.sign button{
+    width: 328.97px;
+    height: 41.31px;
+    background: linear-gradient(180deg, #FCE570 0%, #EC8206 100%);
+    border: none;
+    border-radius: 12px; 
+    margin-top: -10px;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+
+.withgg button{
+    width: 328.97px;
+    height: 41.31px;
+    color: black;
+    background: white;
+    border: 1px solid gray;
+    border-radius: 12px; 
+    margin-top: -8px;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+
+
+.withgg img{
+    width:28.92px;
+    height: 28.92px;
+    padding-top: 5px;
+}
+
+.new b{
+    text-align: center;
+    padding-left: 0px;
+    font-size: 14px;
+}
+
+.new a{
+    text-decoration: none;
+    color: rgb(198, 141, 19);
+}
+
+.anh1 img{
+    float:left;
+    margin-top: -651px;
+    padding-left: 542px;
+    width: 540px;
+    height: 650px;
+}
